@@ -20,7 +20,7 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1wBYYKX9jZ_MX9Xdb824gXoi8fwQtHb65&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
@@ -75,11 +75,14 @@ I was born on May 31, 2009, in Trashi Yangtse, located in eastern Bhutan. Althou
 - 🔬 **Research Area 1** — Brief description of your interest
 I am someone who is a huge fan of watching many different genres of movies, especially horror. I am very interested in learning how watching these movies affects an individual's mentality in terms of how they experience fear. I want to research desensitization, which is the idea that people might become numb to scary things after seeing them on screen.
 
+
 - 🎨 **Creative Hobby** — Brief description
 I enjoy graphic design and creating posters for idols because it helps me enhance my design skills and expand my creativity. Moreover, I also love writing poems as a way to express myself. Fortunately, I am able to use these activities to explore different forms of artistic storytelling even though writing is not a regular practice for me.
 
+
 - 🏃 **Sports / Activity** — Brief description
 I am not someone who enjoys physical activity or sports to a great extent. However, I do enjoy playing badminton, table tennis, basketball, and volleyball with my friends for fun. Although I would not consider them my regular hobbies or practice, I find that playing these games is a great way to stay active and spend quality time with my friends.
+
 
 - 📚 **Reading / Learning** — Brief description
 I very much enjoy reading fiction books because they are a great way to escape reality through different fantasies. I read a lot of fiction during my free time, especially when I am giving myself screen free time. So far, my favorite books are The Song of Achilles and Looking for Alaska. This is because through these stories I am able to adopt a good personality and positive ways of thinking.
